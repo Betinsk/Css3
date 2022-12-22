@@ -1,0 +1,62 @@
+
+        body {
+            background: pink;
+        }
+
+
+        #introducao {
+            color: rgb(201, 37, 70);
+            font-size: 18px;
+
+        }
+
+        #cabecalho a {
+            text-decoration: none;
+            font-size: 18px;
+            color: rgb(238, 213, 218);
+            
+        }
+
+        #cabecalho a:hover {
+            color:rgb(243, 50, 88);
+            background: rgb(241, 170, 170);
+            padding: 3px;
+
+        }
+        #cabecalho {
+            background: rgb(240, 145, 161);
+            font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+            padding:6px;
+            text-align: center;
+            font-size: 27px;
+            color: rgb(238, 213, 218);
+        }
+
+        #area-principal{
+            width: 920px;
+            margin-left: 400px;
+            padding: 15px;
+            float:left;
+           
+            
+        }
+
+        #area-lateral {
+            float: right;
+            padding: 10px;
+            background-color: rgb(243, 162, 162);
+            width: 500px;
+            height: 370px;
+            color: aliceblue;
+            font-family: Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace;
+        }
+
+
+        #area-gifts {
+            background: white;
+            float: left;
+            width: 150px;
+            height: 150px;
+            
+            
+        }
